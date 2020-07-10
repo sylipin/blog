@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://sylipin.github.io.git/"/>
-  <updated>2020-07-10T06:15:06.408Z</updated>
+  <updated>2020-07-10T11:18:08.112Z</updated>
   <id>https://sylipin.github.io.git/</id>
   
   <author>
@@ -17,19 +17,21 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>Hello World</title>
+    <title>作品展示</title>
     <link href="https://sylipin.github.io.git/2020/07/10/hello-world/"/>
     <id>https://sylipin.github.io.git/2020/07/10/hello-world/</id>
     <published>2020-07-10T06:15:06.408Z</published>
-    <updated>2020-07-10T06:15:06.408Z</updated>
+    <updated>2020-07-10T11:18:08.112Z</updated>
     
-    <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/" target="_blank" rel="noopener">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/" target="_blank" rel="noopener">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html" target="_blank" rel="noopener">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues" target="_blank" rel="noopener">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">"My New Post"</span></span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html" target="_blank" rel="noopener">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html" target="_blank" rel="noopener">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html" target="_blank" rel="noopener">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/one-command-deployment.html" target="_blank" rel="noopener">Deployment</a></p>]]></content>
+    <content type="html"><![CDATA[<h2 id="HTML静态页面类"><a href="#HTML静态页面类" class="headerlink" title="HTML静态页面类"></a>HTML静态页面类</h2><!-- ### Create a new post --><!-- ``` bash --><!-- # $ hexo new "My New Post" --><!-- ``` --><!-- More info: [Writing](https://hexo.io/docs/writing.html) --><h2 id="css特效类"><a href="#css特效类" class="headerlink" title="css特效类"></a>css特效类</h2><!-- ``` bash --><!-- $ hexo server --><!-- ``` --><!-- More info: [Server](https://hexo.io/docs/server.html) --><h2 id="js类"><a href="#js类" class="headerlink" title="js类"></a>js类</h2><!-- ``` bash --><!-- $ hexo generate --><!-- ``` --><!-- More info: [Generating](https://hexo.io/docs/generating.html)、 --><h2 id="jQuery类"><a href="#jQuery类" class="headerlink" title="jQuery类"></a>jQuery类</h2><!-- ``` bash --><!-- # $ hexo deploy --><!-- ``` --><!-- More info: [Deployment](https://hexo.io/docs/one-command-deployment.html) -->]]></content>
     
     <summary type="html">
     
       
       
-        &lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.
+        &lt;h2 id=&quot;HTML静态页面类&quot;&gt;&lt;a href=&quot;#HTML静态页面类&quot; class=&quot;headerlink&quot; title=&quot;HTML静态页面类&quot;&gt;&lt;/a&gt;HTML静态页面类&lt;/h2&gt;&lt;!-- ### Create a new post --&gt;
+
+&lt;!-- ``` bash
       
     
     </summary>
