@@ -1,0 +1,118 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <script src="https://cdn.staticfile.org/jquery/2.2.4/jquery.min.js"></script>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+        }
+
+        .box {
+            width: 960px;
+            height: 680px;
+            /* background-color: orange; */
+            margin: 20px auto;
+            box-sizing: border-box;
+            overflow: hidden;
+        }
+
+        .box ul {
+            width: 960px;
+            height: 169px;
+        }
+
+        .box ul li {
+            list-style: none;
+            width: 190px;
+            height: 169px;
+            float: left;
+            background-color: black;
+            margin: 1px;
+            overflow: hidden;
+        }
+    </style>
+</head>
+
+<body>
+    <div class="box">
+        <ul>
+            <li></li>
+            <li></li>
+            <li></li>
+            <li></li>
+            <li></li>
+        </ul>
+
+        <ul>
+            <li></li>
+            <li></li>
+            <li></li>
+            <li></li>
+            <li></li>
+        </ul>
+
+        <ul>
+            <li></li>
+            <li></li>
+            <li></li>
+            <li></li>
+            <li></li>
+        </ul>
+
+        <ul>
+            <li></li>
+            <li></li>
+            <li></li>
+            <li></li>
+            <li></li>
+        </ul>
+    </div>
+    <script>
+        $(function () {
+            $('.box ul li').click(function () {
+
+                var cont = $(this).index();
+
+                $(this).css('backgroundColor', 'red')
+                $(this).siblings().css('backgroundColor', 'black')
+                $(this).parent().siblings().children().css('backgroundColor', 'black')
+
+                $(this).animate({
+                    width: '389px',
+                    height: '480px'
+                }, 500)
+
+                
+
+                $(this).siblings().animate({
+                    width: '140px',
+                    height: '480px'
+                }, 500)
+
+                $(this).parent().animate({
+                    height: '480px'
+                }, 500)
+
+                $(this).parent().siblings().children().animate({
+                    width: '190px',
+                    height: '68px'
+                }, 500)
+                $(this).parent().siblings().animate({
+                    height: '68px',
+                }, 500)
+
+                //同列元素的宽度相同
+                // $(this).parent().siblings().children().eq(cont).animate({
+                //     width:'389px'
+                // },500)
+            })
+        })
+    </script>
+</body>
+
+</html>
