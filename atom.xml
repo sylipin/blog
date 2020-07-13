@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://sylipin.github.io.git/"/>
-  <updated>2020-07-11T02:22:34.378Z</updated>
+  <updated>2020-07-13T03:37:44.188Z</updated>
   <id>https://sylipin.github.io.git/</id>
   
   <author>
@@ -21,7 +21,7 @@
     <link href="https://sylipin.github.io.git/2020/07/10/hello-world/"/>
     <id>https://sylipin.github.io.git/2020/07/10/hello-world/</id>
     <published>2020-07-10T06:15:06.408Z</published>
-    <updated>2020-07-11T02:22:34.378Z</updated>
+    <updated>2020-07-13T03:37:44.188Z</updated>
     
     <content type="html"><![CDATA[<h2 id="HTML静态页面类"><a href="#HTML静态页面类" class="headerlink" title="HTML静态页面类"></a>HTML静态页面类</h2><!-- ### Create a new post --><!-- ``` bash --><!-- # $ hexo new "My New Post" --><!-- ``` --><ul><li><blockquote><p><a href="https://sylipin.github.io/../../../xiaomi/小米.html" target="_blank" rel="noopener">小米静态网页</a></p></blockquote></li><li><blockquote><p><a href="https://sylipin.github.io/../../../shoufengqin/手风琴.html" target="_blank" rel="noopener">手风琴</a></p></blockquote></li></ul><!-- <a href="http://localhost:4000/../../../xiaomi/index.html" target="_blank" rel="noopener">xiaomi</a> --><!-- <a href="">shoufengqin</a> --><h2 id="css特效类"><a href="#css特效类" class="headerlink" title="css特效类"></a>css特效类</h2><!-- ``` bash --><!-- $ hexo server --><!-- ``` --><!-- More info: [Server](https://hexo.io/docs/server.html) --><h2 id="js类"><a href="#js类" class="headerlink" title="js类"></a>js类</h2><!-- ``` bash --><!-- $ hexo generate --><!-- ``` --><!-- More info: [Generating](https://hexo.io/docs/generating.html)、 --><h2 id="jQuery类"><a href="#jQuery类" class="headerlink" title="jQuery类"></a>jQuery类</h2><!-- ``` bash --><!-- # $ hexo deploy --><!-- ``` --><!-- More info: [Deployment](https://hexo.io/docs/one-command-deployment.html) -->]]></content>
     
